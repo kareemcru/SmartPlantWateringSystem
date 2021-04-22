@@ -40,6 +40,8 @@ Publishing and subscribing feeds on Adafruit.io was a rather simple task to comp
 Designing the asethetics of this project was rather easy because I bought most of the pieces at the store in order to be able to fully focus on the coding and Wifi implications. In conclusion, 
 this project has major advantages to improving the quality of life for day to day Americans and I am excited to see what further projects or IoTers will do with this piece of information.  
 **To View this project's Hackster.io!**
+
 https://www.hackster.io/kareemcru/smart-house-plant-watering-system-384696
 **To View this project's Adafruit.io!**
+
 https://io.adafruit.com/Kareemcru/dashboards/plant-water
