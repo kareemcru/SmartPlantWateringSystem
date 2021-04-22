@@ -8,9 +8,9 @@ and constantly setting it to match that environment. The system utilizes a DC mo
 keep the plant at **optimal hydration** levels. The system, along with its *multiple components*, work together to gather and display data from the environment around you
 such as **air quality, or temperature!**
 
-#Components/ Details
+# Components/ Details
 
-*Particle Argon
+* Particle Argon
 
 *Adafruit OLED display
 
@@ -50,7 +50,7 @@ such as **air quality, or temperature!**
 
 *Flower Pot Holder W/ Stands
 
-#Summary
+# Summary
 The overall project of making a Smart Plant Watering System began on *19-Apr-2021* and took till around 1700 on *22-Apr-2021* to finish constructing. The process overall was 
 challenging in the implementation of the two Seeed devices because I had not worked with those prior to this project. Their integration from Seeeduino into Visual Studio Code
 was difficult but looking at other source code helped aid that process. Furthemore, the implementations of a watering system that would dual as a self sustaining system was
