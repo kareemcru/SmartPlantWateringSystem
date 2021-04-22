@@ -9,26 +9,45 @@ keep the plant at **optimal hydration** levels. The system, along with its *mult
 such as **air quality, or temperature!**
 
 #Components/ Details
+
 *Particle Argon
+
 *Adafruit OLED display
+
 *Relay
+
 *DC Motor
+
 *Seeed Air Quality Sensor
+
 *Seeed Grove Dust Sensor
+
 *Adafruit BME 280
+
 *Soil Moisture Sensor
+
 *PNP Transistor
+
 *PNP Emitter Follower
+
 *220 Ohms Resistor
+
 *2.2K omhs Resistor
+
 *3D Printed Flower Pot 
 
 #Parts/ tools
+
 *White Marble Rocks
+
 *Spanish Moss
+
 *Zantedeshia calla lilies
+
 *Clear Water Pan
+
 *Organic Soil
+
 *Flower Pot Holder W/ Stands
 
 #Summary
@@ -40,8 +59,7 @@ Publishing and subscribing feeds on Adafruit.io was a rather simple task to comp
 Designing the asethetics of this project was rather easy because I bought most of the pieces at the store in order to be able to fully focus on the coding and Wifi implications. In conclusion, 
 this project has major advantages to improving the quality of life for day to day Americans and I am excited to see what further projects or IoTers will do with this piece of information.  
 **To View this project's Hackster.io!**
-
 https://www.hackster.io/kareemcru/smart-house-plant-watering-system-384696
-**To View this project's Adafruit.io!**
 
+**To View this project's Adafruit.io!**
 https://io.adafruit.com/Kareemcru/dashboards/plant-water
